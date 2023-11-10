@@ -20,6 +20,8 @@ h3 {
 
 img {
   width: 500px;
+  border-radius:15px;
+  margin: 0 auto;
 }
 
 .introduction-text {
@@ -69,19 +71,30 @@ p {
   line-height: 85px;
 }
 
+.content-text {
+  margin: 20px;
+}
+
 .footer {
   display: flex;
   justify-content: space-evenly;
   font-size: 18px;
   font-weight: 700;
 }
+
+.set-margin {
+  margin-top: 160px;
+}
+
 @media (max-width:700px) {
   h1 {
     font-size: 50px;
   }
   .project-text {
     text-align: center;
-  
+  }
+  img {
+    size: 100px;
   }
 }
 
