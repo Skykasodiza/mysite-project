@@ -70,7 +70,7 @@ p {
 
 .hero {
   text-align: center;
-  padding: 120px 0;
+  padding: 120px 0 60px 0;
   background-color: #f9f7fe;
 }
 
@@ -93,6 +93,12 @@ p {
 
 .set-margin {
   margin-top: 160px;
+}
+
+.navigation-links a {
+margin: 30px;
+  padding: 15px 15px;
+justify-content: center;
 }
 
 @media (max-width:700px) {
