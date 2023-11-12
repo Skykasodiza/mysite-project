@@ -122,6 +122,9 @@ justify-content: center;
   .project-text {
     text-align: center;
   }
-  
+  .image {
+    max-width:fit-content;
+    
+  }
 }
 
