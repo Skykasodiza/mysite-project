@@ -60,6 +60,14 @@ p {
   padding: 18px 30px;
 }
 
+.contact-content {
+  text-align: center;
+}
+
+.contact-content h3 {
+  font-weight: bold;
+}
+
 .hero {
   text-align: center;
   padding: 120px 0;
@@ -78,7 +86,7 @@ p {
 
 .footer {
   display: flex;
-  justify-content: space-evenly;
+  justify-content:space-evenly;
   font-size: 18px;
   font-weight: 700;
 }
