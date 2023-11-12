@@ -91,6 +91,20 @@ p {
   font-weight: 700;
 }
 
+.logo {
+  max-width: 150px;
+  box-shadow: none;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  list-style: none;
+}
+
 .set-margin {
   margin-top: 160px;
 }
