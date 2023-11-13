@@ -123,8 +123,8 @@ justify-content: center;
     text-align: center;
   }
   .image {
-    max-width:fit-content;
-    
+  width:50%;
+  align-content: center;
   }
 }
 
