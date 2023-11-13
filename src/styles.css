@@ -71,7 +71,7 @@ p {
 .hero {
   text-align: center;
   padding: 120px 0 60px 0;
-  background-color: #f9f7fe;
+  background-color: #f4f2f9;
 }
 
 .content-heading {
@@ -89,6 +89,7 @@ p {
   justify-content:space-evenly;
   font-size: 18px;
   font-weight: 700;
+  
 }
 
 .logo {
